@@ -4,7 +4,6 @@
 
 You wake up locked in a small study and have to get out. The room has a bunch of objects you can poke at, and a few of them actually do something. Solve the five puzzles hidden around the room and the door finally unlocks so you can leave. That's it — one room, one door, five things to figure out.
 
-I kept it to a single room on purpose because it's only week 4 and I didn't want to bite off more than I could chew. Most of my time went into getting the interaction and the progress counter working rather than making it huge.
 
 ## The five puzzle tasks
 
@@ -21,11 +20,9 @@ No puzzle tells you what to do in words — it's all colours, symbols, lights an
 ## Assets I used
 
 - **Furniture, lamp, dresser, props** — Kenney Furniture Kit (free): https://kenney.nl/assets/furniture-kit
-- **First-person player controller** — Unity Starter Assets – FirstPerson (free, from the Unity Asset Store): https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
-- **Lever for the final puzzle** — grabbed a low-poly one off Sketchfab: `[paste the exact model link you used here]`
-- The room itself (walls / floor / ceiling) is just stretched cubes with a Kenney material on them — I built that part by hand.
-
-> Note to self: double-check every link is the actual one I downloaded before I submit.
+- **First-person player controller** — Unity Starter Assets – FirstPerson (free, from the Unity Asset Store): https://assetstore.unity.com/packages/tools/input-management/mini-first-person-controller-174710
+- **Lever for the final puzzle** — grabbed a low-poly one off Sketchfab: https://sketchfab.com/3d-models/lever-power-switch-374608f75c114b8a9bf41dbc02c51c50
+- The room itself (walls / floor / ceiling) is just stretched cubes from a kenney asset pack: 
 
 ## Controls
 
