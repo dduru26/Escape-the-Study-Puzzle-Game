@@ -2,7 +2,7 @@
 
 ## What the game is
 
-You wake up locked in a small study and have to get out. The room has a bunch of objects you can poke at, and a few of them actually do something. Solve the five puzzles hidden around the room and the door finally unlocks so you can leave. That's it — one room, one door, five things to figure out.
+You wake up locked in a small house and have to get out. The room has a bunch of objects you can poke at, and a few of them actually do something. Solve the five puzzles hidden around the room and the door finally unlocks so you can leaveOne room, one door, five things to figure out.
 
 
 ## The five puzzle tasks
@@ -26,11 +26,11 @@ No puzzle tells you what to do in words — it's all colours, symbols, lights an
 
 ## Controls
 
-| Key / input | What it does |
+| Key | Action |
 |---|---|
 | **W A S D** | Move around |
 | **Mouse** | Look around |
 | **Left click** (or **E**) | Interact with whatever you're looking at — flip the lamp, open a drawer, rotate things, pick stuff up, pull the lever |
 | **Esc** | Quit |
 
-You don't need anything fancy — just walk up to an object, look at it, and click.
+That's all! — just walk up to an object, look at it, and click.
