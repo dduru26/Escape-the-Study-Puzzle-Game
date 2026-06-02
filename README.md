@@ -32,8 +32,6 @@ The first four can be done in any order — only the lever needs the rest finish
 - **Lever for the final puzzle** — low-poly lever off Sketchfab: https://sketchfab.com/3d-models/lever-power-switch-374608f75c114b8a9bf41dbc02c51c50
 - The room shell (walls / floor / ceiling) is just stretched default Unity cubes with a Kenney material on them — I built that part by hand.
 
-> Note to self: confirm the controller name above matches the one I actually imported before submitting.
-
 ## Controls
 
 | Key / input | What it does |
